@@ -1,0 +1,394 @@
+    1  sudo apt update
+    2  sudo apt upgrade
+    3  y
+    4  sudo apt dist-upgrade
+    5  sudo apt autoremove
+    6  lsb_release -a
+    7  python -a
+    8  python
+    9  python3
+   10  pwd
+   11  ls
+   12  cd Documents
+   13  ls
+   14  mkdir Projects
+   15  ls
+   16  cd Projects
+   17  mkdir practice
+   18  mkfile
+   19  clear
+   20  ls
+   21  cd practice
+   22  ls
+   23  python test.py
+   24  python3 test.py
+   25  python3 
+   26  pwd
+   27  ls
+   28  cd Documents
+   29  ls
+   30  cd Projcts
+   31  cd Projects
+   32  ls
+   33  cd practice
+   34  python3 test.py
+   35  python3
+   36  pwd
+   37  ls
+   38  sudo auto-install drivers
+   39  sudo ubuntu-drivers auto-install
+   40  sudo ubuntu-drivers autoinstall
+   41  sudo apt update && sudo apt dist-upgrade
+   42  sudo apt-get install xbindkeys
+   43  sudo apt-update
+   44  sudo apt update
+   45  pwd
+   46  ls
+   47  cd projects
+   48  ls
+   49  cd practice
+   50  ls
+   51  touch name.php
+   52  ls
+   53  lsb_release -a
+   54  sudo apt install gnome-tweaks
+   55  sudo apt purge bcmwl-kernel-source
+   56  clear
+   57  sudo sed -i '/blacklist bcma/ d' /etc/modprobe.d/blacklist.conf
+   58  sudo sed -i '/blacklist brcmsmac/ d' /etc/modprobe.d/blacklist.conf
+   59  sudo ubuntu-drivers autoinstall
+   60  wget https://downloads.slack-edge.com/linux_releases/slack-desktop-4.0.2-amd64.deb
+   61  sudo apt install ./slack-desktop-*.deb
+   62  clear
+   63  ls
+   64  clear
+   65  ls
+   66  pwd
+   67  ls
+   68  mkdir task1
+   69  cd task1
+   70  ls
+   71  clear
+   72  cd ../
+   73  rmdir task1
+   74  ls
+   75  mkdir workspace
+   76  cd workspace
+   77  touch READ.md
+   78  ls
+   79  cp READ.md CHANGELOG.md
+   80  ls
+   81  touch umuzi.md && touch recruits.md && touch cohort.md
+   82  sudo apt-get install chrome
+   83  sudo apt install chrome
+   84  sudo apt install ./google-chrome*.deb
+   85  sudo apt-get install chrome-browser
+   86  --version
+   87  tree
+   88  ping
+   89  ping -i
+   90  nertview
+   91  sudo apt full-upgrade
+   92  cd /Users/zweli/
+   93  cd /
+   94  ls
+   95  lsb_release
+   96  lsb_release -a
+   97  sudo apt upgrade
+   98  sudo apt-get update
+   99  lsb_release -a
+  100  sudo apt upgrade
+  101  man nano
+  102  man cat
+  103  man echo
+  104  lsb_release
+  105  lsb_release -a
+  106  sudo apt && sudo apt dist-upgrade
+  107  sudo apt install update-manager-core
+  108  lsb_release -a
+  109  sudo apt full-upgrade
+  110  sudo apt-get full-upgrade
+  111  man locate
+  112  man file
+  113  man find
+  114  find test.java
+  115  find Test.java
+  116  find .Test.java
+  117  ls
+  118  cd tmp
+  119  ls
+  120  cd ../workspace
+  121  cd ../
+  122  ls
+  123  cd home
+  124  ls
+  125  cd zweli/
+  126  ls
+  127  cd workspace
+  128  ls
+  129  cat umuzi.md
+  130  ls
+  131  pwd
+  132  ls
+  133  cd workspace
+  134  ls
+  135  ls cd /
+  136  ls
+  137  cd / && ls
+  138  cd home/workspace
+  139  ls
+  140  cd home
+  141  ls
+  142  cd zweli
+  143  ls
+  144  cd workspace
+  145  ls
+  146  rm umuzi.md cohort.md recruits.md
+  147  ls
+  148  rm READ.md
+  149  ls
+  150  touch README.md
+  151  ls
+  152  touch umuzi.md recruits.md cohort.md
+  153  echo "I dig Umuzi. big time" >> umuzi.md
+  154  echo "I am an Umuzi recruit" >> recruits.md
+  155  echo "The C17 cohort is full of beans" >> cohort.md
+  156  cat umuzi.md
+  157  cat cohort.md
+  158  cat recruits.md
+  159  cat umuzi.md cohort.md recruits.md
+  160  cat umuzi.md recruits.md cohort.md | sort > summary.md
+  161  ls
+  162  cat summary.md
+  163  echo "The End" >> summary.md
+  164  cat summary.md
+  165  locate umuzi
+  166  locate umuzi >> search_result.md
+  167  cat search_result.md 
+  168  locate Documents
+  169  cd /home/zweli/documents/
+  170  cd /home/zweli/Documents/
+  171  ls
+  172  touch pad.md
+  173  ls
+  174  cd ../Desktop/
+  175  cd ../
+  176  cd /home/
+  177  cd Documents
+  178  cd zweli
+  179  ls
+  180  cd Documents
+  181  ls
+  182  cd ../Desktop/ && mkdir work
+  183  cp ../Documents/pad.md pad_copy.md
+  184  ls
+  185  cd -
+  186  locate updatedb
+  187  locate pad_copy.md
+  188  locate pad_copy
+  189  cd ../
+  190  locate pad_copy.md
+  191  cd -
+  192  man locate
+  193  locate pa_copy
+  194  locate pad_copy
+  195  locate pad_copy.md
+  196  cd /
+  197  locate pad_copy.md
+  198  cd ~/
+  199  ls
+  200  cd -
+  201  cd home
+  202  cd zweli
+  203  ls
+  204  cd Documents
+  205  man find
+  206  find
+  207  find .pdf
+  208  find /*.pdf
+  209  find */pdf
+  210  find .pdf
+  211  find ./*pdf
+  212  man find
+  213  man nano
+  214  nano
+  215  ls
+  216  cat nanotest.md
+  217  cd / && ls
+  218  ls /boot
+  219  ls /tmp
+  220  ls
+  221  cd Videos
+  222  ls
+  223  cd Downloads
+  224  cd -
+  225  cd Downloads
+  226  ls
+  227  cat TLCL-13.07.pdf
+  228  62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c62;c
+  229  ls
+  230  nano TLCL-13.07.pdf
+  231  clear
+  232  cls
+  233  clear
+  234  git
+  235  git -a
+  236  git --version
+  237  sudo apt install git
+  238  ls
+  239  cd Desktop
+  240  ls
+  241  python3 prime.py
+  242  python3 nprimes.py
+  243  50
+  244  python3 nprimes.py
+  245  1000
+  246  python3 nprimes.py
+  247  100000
+  248  python3 nprimes.py
+  249  clear
+  250  python3 nprimes.py
+  251  history
+  252  sudo apt install git
+  253  git --version
+  254  git diff
+  255  git commit
+  256  ls
+  257  mkdir myrepo
+  258  ls
+  259  git init myrepo
+  260  cd myrepo
+  261  git status
+  262  git commit ../myrepo
+  263  git commit
+  264  git config --global user.mail "zwescientist@gmail.com"
+  265  git status
+  266  mkdir practice
+  267  cd practice 
+  268  touch practice.py
+  269  ls
+  270  cd ../
+  271  cd -
+  272  nano practice.py
+  273  cat practice.py
+  274  git commit
+  275  cd ../
+  276  git commit
+  277  git config user.email "zwescientist@gmail.com"
+  278  git status
+  279  git add practice/
+  280  git status
+  281  git commit
+  282  ls
+  283  cd myrepo
+  284  git status
+  285  ls
+  286  cd practice
+  287  ls
+  288  git log
+  289  git status
+  290  cd myrepo
+  291  git add practice.py
+  292  cd ../
+  293  git log
+  294  git commit "Second commit"
+  295  git commit -m "second commit"
+  296  git remote add origin https://github.com/zwelisha/myrepo.git
+  297  git push -u origin master
+  298  cd ..
+  299  pwd
+  300  mkdir git-basic-exercises
+  301  cd git-basic-exercises
+  302  ls -a
+  303  git init
+  304  ls -a
+  305  git status
+  306  clear
+  307  git status
+  308  touch README.md
+  309  ls -a
+  310  ls
+  311  ls -a
+  312  git status
+  313  git log
+  314  git add README.md
+  315  git status
+  316  git status README.md
+  317  git status
+  318  git reset HEAD README.md
+  319  git reset HEAD
+  320  man git reset HEAD
+  321  git reset -- README.md
+  322  git status
+  323  git add README.md
+  324  git status
+  325  git log
+  326  git commit -m "initial commit"
+  327  git config --global user.email "zwescientist@gmail.com
+  328  git config --gloabl user.password zuluGeek@2019
+  329  q
+  330  clear
+  331  pwd
+  332  ls
+  333  cd git-basic-exercises/
+  334  clear
+  335  git status
+  336  git log
+  337  git commit -m "initial commit"
+  338  git config --global user.email "zwescientist@gmail.com
+git config --global user.name "
+  339  git commit -m "initial commit"
+  340  git log
+  341  nano README.md
+  342  cat README.md
+  343  git stats
+  344  git status
+  345  git commit -m "second commit"
+  346  git add README.md
+  347  git commit -m "second commit"
+  348  nano README.md
+  349  cat README.md
+  350  git status
+  351  git add README.md
+  352  git status
+  353  git commit -m "third commit"
+  354  git log
+  355  git checkout 3c834c4d1413071974a6198912daa7f5906b490f
+  356  cat README.md
+  357  git checkout master
+  358  cat README.md
+  359  git status
+  360  git log
+  361  git branch
+  362  clear
+  363  git branch milkshake-flavours
+  364  git branch
+  365  git branch *
+  366  git branch
+  367  git log
+  368  git status
+  369  git checkout milkshake-flavours
+  370  git branch
+  371  git checkout master
+  372  git checkout *
+  373  git branch --delete README.md
+  374  pwd
+  375  git checkout master
+  376  git branch --delete README.md
+  377  git branch
+  378  git checkout milkshake-flavours
+  379  nano milkshakes.md
+  380  cat milkshakes.md
+  381  ls
+  382  git status
+  383  git commit -m "added initial flavours"
+  384  git add milkshakes.md
+  385  git status
+  386  git commit -m "added initial flavours"
+  387  git log
+  388  git checkout master
+  389  git status
+  390  git branch history
+  391  git checkout history
+  392  git log
+  393  history > history.txt
